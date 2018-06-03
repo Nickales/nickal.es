@@ -18,6 +18,7 @@ defaults:
   values:
     layout: post
     permalink: "/posts/:title/"
+    image: 
 - scope:
     path: ''
     type: pages

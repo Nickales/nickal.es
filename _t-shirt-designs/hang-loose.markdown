@@ -1,7 +1,7 @@
 ---
 title: Hang Loose
 date: 2018-06-03 20:41:00 Z
-image: 
+image: "/uploads/hang-loose-v2.jpg"
 ---
 
-Hang Loose T-shirt
+Hang Loose T-shirt design

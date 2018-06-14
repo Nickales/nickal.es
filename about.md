@@ -4,12 +4,10 @@ permalink: "/about/"
 layout: page
 ---
 
-<img class="col one right" src="/img/prof_pic.jpg">
+<img class="col one right" src="/uploads/me.jpg">
 
 <br/>
-Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder. 
-
-Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
+Nickales Branson is a user experience designer enrolled at Eastern Washington University. Nick spends a lot of time on the internet researching any subject he has an interest in. From cinematography, to video games, to music production, to being a Dungeons and Dragons game master, Nick has a broad appreciation for the art of storytelling. Nick believes life is all about stories, and design can be directly linked to storytelling. But design is also more than that: Design is about finding a story and refining to its most essential components. The techniques used to tell a story in one medium can inform and improve another. Whether it’s using camerawork to influence the tone of a movie, or creating a compelling narrative up in dungeons and dragons on the spot, knowing how stories are told is key to how Nick views design. He hopes to tell authentic stories through his designs. 
 
 
 <br/>

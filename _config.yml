@@ -1,6 +1,6 @@
 ---
 title: nickal.es
-timezone: UTC
+timezone: America/Los_Angeles
 collections:
   posts:
     title: Posts
@@ -14,14 +14,12 @@ collections:
   portfolio:
     title: portfolio
     output: true
-email: you@example.com
-description: 'A simple, whitespace, helvetica based portfolio theme.
-
-'
+email: bransnic000@gmail.com
+description: 
 baseurl: 
-url: 
-twitter_username: twitter_username
-github_username: github_username
+url: nickal.es
+twitter_username: nickalesgb
+github_username: nickales
 markdown: kramdown
 highlighter: rouge
 paginate: 15

@@ -11,14 +11,12 @@ collections:
   uploads:
     title: Uploads
     output: true
-email: you@example.com
-description: 'A simple, whitespace, helvetica based portfolio theme.
-
-'
+email: bransnic000@gmail.com
+description: 'Hi, my name is Nick Branson. If you're here it means you somehow stumbled on my website. It's pretty meager right now but you can take a look at my blog posts below. I also have a couple of art pieces you can check out if you would like. I'll be adding more of my design work here in the future.'
 baseurl: 
 url: 
-twitter_username: twitter_username
-github_username: github_username
+twitter_username: nickalesgb
+github_username: nick
 markdown: kramdown
 highlighter: rouge
 paginate: 15

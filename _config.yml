@@ -11,6 +11,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  portfolio:
+    title: portfolio
+    output: true
 email: you@example.com
 description: 'A simple, whitespace, helvetica based portfolio theme.
 

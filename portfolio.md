@@ -18,7 +18,7 @@ layout: page
         <span>
             <h1>{{ project.title }}</h1>
             <br/>
-            <p>{{ project.description }}</p>
+            <p>{{ project.content }}</p>
         </span>
         </a>
     </div>
@@ -36,7 +36,7 @@ layout: page
         <span>
             <h1>{{ project.title }}</h1>
             <br/>
-            <p>{{ project.description }}</p>
+            <p>{{ project.content }}</p>
         </span>
         </a>
     </div>

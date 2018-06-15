@@ -4,7 +4,7 @@ permalink: "/portfolio/"
 layout: page
 ---
 
-{% for project in site.portfolio %}
+{% for project in site.shirts %}
 
 {% if project.redirect %}
 <div class="project">

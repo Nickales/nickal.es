@@ -1,5 +1,5 @@
 ---
-title: portfolio
+title: t-shirts
 permalink: "/portfolio/"
 layout: page
 ---
